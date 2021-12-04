@@ -18,3 +18,6 @@ _Sifchain's novel liquidity protocol & EVM bridge, built with the [CosmosSDK](ht
 
 ### 🖼 [Frontend](https://github.com/Sifchain/sifchain-ui) 
 _Sifchain's User Interface & upcoming Frontend SDK_
+
+### 📖 [Documentation (General)](https://docs.sifchain.finance/)
+_Learn about how to use Sifchain and how it works._
