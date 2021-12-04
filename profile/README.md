@@ -7,11 +7,11 @@
   <a href="https://dex.sifchain.finance">dex.sifchain.finance</a>
 </p>
 
-# ✨ Repositories
+## ✨ Repositories
 
-## ⛓ [Sifnode & Peggy](https://github.com/Sifchain/sifnode) 
+### ⛓ [Sifnode & Peggy](https://github.com/Sifchain/sifnode) 
 Sifchain's novel liquidity protocol & EVM bridge, built with the [CosmosSDK](https://github.com/cosmos/cosmos-sdk).
 
 
-## 🖼 [Sifchain UI](https://github.com/Sifchain/sifchain-ui) 
+### 🖼 [Sifchain UI](https://github.com/Sifchain/sifchain-ui) 
 Sifchain's UI & upcoming Frontend SDK
