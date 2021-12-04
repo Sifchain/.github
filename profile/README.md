@@ -1,4 +1,4 @@
-<p align="center"><a href="https://alexandriasrevenge.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Sifchain/.github/main/assets/Sifchain%20Logo.png"/>
+<p align="center"><a href="https://alexandriasrevenge.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Sifchain/.github/main/assets/Sifchain%20Logo.svg"/>
 </a></p>
 <p align="center">
 ⚡️ The Omnichain DEX ⚡️
