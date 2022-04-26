@@ -4,7 +4,7 @@
 ⚡️ <b>T H E &nbsp;&nbsp; O M N I C H A I N &nbsp;&nbsp; D E X</b> ⚡️
 </p>
 <p align="center">⚖️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dex.sifchain.finance"><u>dex.sifchain.finance</u></a>
+  <a href="https://sifchain.network"><u>sifchain.network</u></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖
 </p>
 <hr>
